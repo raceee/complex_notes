@@ -1,0 +1,2 @@
+#chapter3 
+The principal value of a [[logarithm function]] is the value obtained from equation $$\log z = \ln r + i (\Theta + 2n\pi ) $$when $n = 0$ and is denoted $Log z$. Thus $$Log z = \ln r + i\Theta$$

@@ -1,0 +1,4 @@
+#chapter3 
+Recall the multiple valued [[logarithm function]] $$\log z = \ln r + i\theta$$ A branch of a multiple alued fucntion $f$ is any single-valued function $F$ that is [[analytic]] in some domain at each point $z$ of which the value $F(z)$ is one of the values of $f$. The requirement of analyticity, of course, prevents $F$ from taking on a random selection of values of $f$. The principal branch being: $$Log z = \ln r + i\Theta$$
+
+The branch cut is a portion of a line or curve that is introduced in order to define a branch $F$ of a multiple-valued function $f$. Points on the branch cut are [[singular points]] of $F$, and any point that is common to all branch cuts of $f$ is called a branch point.
