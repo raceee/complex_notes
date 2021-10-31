@@ -1,3 +1,2 @@
 # complex_notes
-
-N
+Notes on complex variables from the book Complex Variables and Applications by Brown and Churchill
