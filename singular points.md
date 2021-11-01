@@ -1,0 +1,1 @@
+If a funciton $f$ fails to be analytic at a point $z_0$ but is analytic at some point in every neighborhood of $z_0$, the $z_0$ is called a [[singular points]],  or singularity, of f.

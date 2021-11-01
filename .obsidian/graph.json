@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 6084225
       }
+    },
+    {
+      "query": "tag:#chapter2",
+      "color": {
+        "a": 1,
+        "rgb": 6054102
+      }
     }
   ],
   "collapse-display": true,
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9409928231902513,
+  "scale": 1.3015453903668919,
   "close": true
 }
