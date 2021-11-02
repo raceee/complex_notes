@@ -4,15 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "9c527fd74d8e9718",
+        "id": "6361991b28ad044e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chapter2/analytic.md",
+            "file": "chapter3/zeros and singularities of trig functions.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "d6eae51d4dc4989b"
+      },
+      {
+        "id": "649463fa0d87bca0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "chapter3/zeros and singularities of trig functions.md",
+            "mode": "source"
+          }
+        },
+        "group": "d6eae51d4dc4989b"
       }
     ],
     "direction": "vertical"
@@ -66,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 540
+    "width": 409
   },
   "right": {
     "id": "4351da5b86671fa3",
@@ -82,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapter2/analytic.md",
+                "file": "chapter3/zeros and singularities of trig functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,17 +113,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9c527fd74d8e9718",
+  "active": "6361991b28ad044e",
   "lastOpenFiles": [
+    "chapter3/zeros and singularities of trig functions.md",
+    "chapter3/logarithm function.md",
+    "chapter3/branch.md",
+    "chapter3/logarithmic identities.md",
+    "chapter2/exponential function.md",
     "chapter2/analytic.md",
     "chapter2/Cauchy-Riemann.md",
     "chapter3/trig functions.md",
     "TEST 2 REV.md",
-    "chapter2/singular points.md",
-    "chapter2/entire.md",
-    "chapter2/Untitled.md",
-    "chapter2/polar coordinates.md",
-    "chapter2/sufficient conditions for differentiability.md",
-    "README.md"
+    "chapter2/singular points.md"
   ]
 }
