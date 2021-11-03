@@ -7,8 +7,11 @@
         "id": "9c527fd74d8e9718",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "chapter2/analytic.md",
+            "mode": "source"
+          }
         },
         "group": "d978bc515fbd9e9a"
       },
@@ -16,8 +19,11 @@
         "id": "149eed64a667d3de",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "chapter2/analytic.md",
+            "mode": "preview"
+          }
         },
         "group": "d978bc515fbd9e9a"
       }
@@ -89,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "chapter2/analytic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +115,15 @@
   },
   "active": "9c527fd74d8e9718",
   "lastOpenFiles": [
+    "chapter2/analytic.md",
+    "chapter2/entire.md",
+    "chapter3/zeros and singularities of trig functions.md",
     "inverse trig and hyperbolic functions.md",
     "chapter3/inverse trig.md",
-    "chapter3/zeros and singularities of trig functions.md",
     "chapter3/trig functions.md",
     "chapter3/logarithmic identities.md",
     "chapter2/exponential function.md",
-    "chapter2/analytic.md",
     "chapter2/Cauchy-Riemann.md",
-    "TEST 2 REV.md",
-    "chapter2/singular points.md"
+    "TEST 2 REV.md"
   ]
 }
