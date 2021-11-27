@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "149eed64a667d3de",
+        "id": "3950b0dc7d1a61ce",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -100,7 +100,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "149eed64a667d3de",
+  "active": "3950b0dc7d1a61ce",
   "lastOpenFiles": [
     "chapter4/integrals of w(t).md",
     "chapter4/derivatives of w(t).md",
