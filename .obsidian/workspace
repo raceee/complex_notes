@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chapter4/integrals of w(t).md",
-            "mode": "preview"
+            "file": "contour integral.md",
+            "mode": "source"
           }
-        }
+        },
+        "group": "84fca1edb2ef2efb"
+      },
+      {
+        "id": "81b27a00b7dcbe4f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "contour integral.md",
+            "mode": "source"
+          }
+        },
+        "group": "84fca1edb2ef2efb"
       }
     ],
     "direction": "vertical"
@@ -66,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 461
+    "width": 105
   },
   "right": {
     "id": "4351da5b86671fa3",
@@ -82,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapter4/integrals of w(t).md",
+                "file": "contour integral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +115,15 @@
   },
   "active": "3950b0dc7d1a61ce",
   "lastOpenFiles": [
+    "contour integral.md",
     "chapter4/integrals of w(t).md",
+    "chapter4/antiderivatives.md",
     "chapter4/derivatives of w(t).md",
     "chapter2/analytic.md",
     "chapter2/entire.md",
     "chapter3/zeros and singularities of trig functions.md",
     "inverse trig and hyperbolic functions.md",
     "chapter3/inverse trig.md",
-    "chapter3/trig functions.md",
-    "chapter3/logarithmic identities.md",
-    "chapter2/exponential function.md"
+    "chapter3/trig functions.md"
   ]
 }
