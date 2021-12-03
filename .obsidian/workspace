@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "contour integral.md",
+            "file": "chapter4/contours.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "contour integral.md",
+            "file": "chapter4/contours.md",
             "mode": "source"
           }
         },
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 105
+    "width": 303
   },
   "right": {
     "id": "4351da5b86671fa3",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "contour integral.md",
+                "file": "chapter4/contours.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
   },
   "active": "3950b0dc7d1a61ce",
   "lastOpenFiles": [
-    "contour integral.md",
+    "chapter4/contours.md",
     "chapter4/integrals of w(t).md",
     "chapter4/antiderivatives.md",
     "chapter4/derivatives of w(t).md",
