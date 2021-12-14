@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chapter4/contours.md",
+            "file": "chapter4/cauchy-goursat theorem.md",
             "mode": "source"
           }
         },
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chapter4/contours.md",
-            "mode": "source"
+            "file": "chapter4/cauchy-goursat theorem.md",
+            "mode": "preview"
           }
         },
         "group": "84fca1edb2ef2efb"
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303
+    "width": 430
   },
   "right": {
     "id": "4351da5b86671fa3",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapter4/contours.md",
+                "file": "chapter4/cauchy-goursat theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "3950b0dc7d1a61ce",
   "lastOpenFiles": [
-    "chapter4/contours.md",
-    "chapter4/integrals of w(t).md",
-    "chapter4/antiderivatives.md",
-    "chapter4/derivatives of w(t).md",
-    "chapter2/analytic.md",
-    "chapter2/entire.md",
-    "chapter3/zeros and singularities of trig functions.md",
-    "inverse trig and hyperbolic functions.md",
-    "chapter3/inverse trig.md",
-    "chapter3/trig functions.md"
+    "chapter4/cauchy-goursat theorem.md",
+    "chapter4/contour.md",
+    "chapter4/simply connected domain.md",
+    "chapter4/liouville's theorem.md",
+    "chapter6/cauchy's residue theorem.md",
+    "chapter6/isolated singular points.md",
+    "chapter6/residue.md",
+    "chapter4/maximum modulus principle.md",
+    "chapter4/cauchy integral formula.md",
+    "chapter4/multiply connected domains.md"
   ]
 }
